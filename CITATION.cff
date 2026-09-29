@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "tunnel-drawdown: poroelastic reference solution for an existing tunnel under groundwater drawdown"
+version: 1.0.0
+date-released: 2026-09-28
+authors:
+  - family-names: Kwon
+    given-names: Yeong-Man
+    email: yeongman.kwon@pknu.ac.kr
+    affiliation: "Department of Civil Engineering, Pukyong National University, Busan, Republic of Korea"
+license: MIT
+repository-code: "https://github.com/YoungmanKwon/tunnel-drawdown"
+keywords:
+  - groundwater drawdown
+  - existing tunnel
+  - poroelasticity
+  - lining forces
+  - OpenGeoSys
+preferred-citation:
+  type: article
+  title: "Closed-form lining forces for an existing impermeable tunnel under groundwater drawdown"
+  authors:
+    - family-names: Kwon
+      given-names: Yeong-Man
+  year: 2026
+  journal: "Manuscript submitted"
